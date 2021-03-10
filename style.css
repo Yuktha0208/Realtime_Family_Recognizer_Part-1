@@ -1,0 +1,20 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+    box-shadow:5px 5px 15px paleturquoise;
+}
+
+.div_1{
+    background-color: lavender;
+    color: orchid;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow:5px 5px 15px paleturquoise;
+    float: none;
+}
+
+.div2{
+    font-size: 18px;
+    color: rgb(210, 244, 255);
+}
